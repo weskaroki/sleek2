@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20418799776",
+    "project_id": "myapp-25745",
+    "storage_bucket": "myapp-25745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20418799776:android:02e78f0bb2ca23802201c5",
+        "android_client_info": {
+          "package_name": "com.wes.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJz7VzPCbTp7Ixc3GOh6Eb4zMgB72Sio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

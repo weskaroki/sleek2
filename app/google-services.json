@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519985060193",
+    "project_id": "sleek-fashion",
+    "storage_bucket": "sleek-fashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519985060193:android:c5357f67cf696953790d20",
+        "android_client_info": {
+          "package_name": "com.wes.sleekfashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBeW266m_V2lo1IXhMquLxTJdaMA6Q4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
